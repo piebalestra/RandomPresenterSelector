@@ -1,0 +1,6 @@
+.customDialog > *.label.content{
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-padding: 30px;
+    -fx-alignment: center ;
+}
